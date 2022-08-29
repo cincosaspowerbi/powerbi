@@ -49,6 +49,12 @@
               </div>
               <nav id="navbar-example2" class="navbar bg-light px-3 mb-3"></nav>
          </div>
+            <div>
+              <p>...</p>
+              <h6>cambio de acometida externa interna y externa</h6>
+              <p>...</p>
+              <iframe title="base nueva juan montes - Página 2" width="1024" height="612" src="https://app.powerbi.com/view?r=eyJrIjoiYmEwNjUyMTEtOWNjMy00NTkzLTkxODAtYmI0MDA4NzQ0YmJmIiwidCI6IjlmZjY2Mjg5LTc3MWUtNDljZi04YTU3LTYxZWIwNTA4OWE2NCJ9" frameborder="0" allowFullScreen="true"></iframe>
+             </div>
                  </center>
     </body>
 </html>
