@@ -1,17 +1,7 @@
 <html>
     <head>
       <style>
-        ul {
-          list-style-type: none;
-          margin: 0;
-          padding: 0;
-          overflow: hidden;
-          background-color: rgb(51, 51, 51);
-        }
-        
-        li {
-          float: left;
-        }
+      
         
         li a {
           display: inline-block;
