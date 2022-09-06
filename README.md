@@ -1,7 +1,17 @@
 <html>
     <head>
       <style>
-      
+        ul {
+          list-style-type: none;
+          margin: 0;
+          padding: 0;
+          overflow: hidden;
+          background-color: rgb(51, 51, 51);
+        }
+        
+        li {
+          float: left;
+        }
         
         li a {
           display: inline-block;
@@ -73,7 +83,7 @@
                 <p>...</p>
                 <h4 id="scrollspyHeading3">base residencial</h4>
                 <p>...</p>
-                <iframe title="base residencial Nueva" width="1024" height="612" src="https://app.powerbi.com/view?r=eyJrIjoiYjA2Y2ZjODYtYjRkZi00OTZmLWE0NDQtY2Y1Y2Y4ZGNkOTdmIiwidCI6IjlmZjY2Mjg5LTc3MWUtNDljZi04YTU3LTYxZWIwNTA4OWE2NCJ9&pageName=ReportSection" frameborder="0" allowFullScreen="true"></iframe>
+                <iframe title="base residencial Nueva" width="1024" height="612" src="https://app.powerbi.com/view?r=eyJrIjoiYjA2Y2ZjODYtYjRkZi00OTZmLWE0NDQtY2Y1Y2Y4ZGNkOTdmIiwidCI6IjlmZjY2Mjg5LTc3MWUtNDljZi04YTU3LTYxZWIwNTA4OWE2NCJ9&pageName=ReportSection" frameborder="0" allowFullScreen="true"></iframe>      
               </div>
               <div>
                 <p>...</p>
@@ -86,6 +96,12 @@
               <h6>cambio de acometida externa interna y externa</h6>
               <p>...</p>
               <iframe title="base nueva juan montes" width="1024" height="612" src="https://app.powerbi.com/view?r=eyJrIjoiYmEwNjUyMTEtOWNjMy00NTkzLTkxODAtYmI0MDA4NzQ0YmJmIiwidCI6IjlmZjY2Mjg5LTc3MWUtNDljZi04YTU3LTYxZWIwNTA4OWE2NCJ9&pageName=ReportSection5184c32a59dbe330ce93" frameborder="0" allowFullScreen="true"></iframe>
+             </div>
+             <div>
+              <p>...</p>
+              <h6>solicitudes de causas de las diferentes areas en sistemas</h6>
+              <p>...</p>
+              <iframe title="sistma_alfredo" width="1024" height="612" src="https://app.powerbi.com/view?r=eyJrIjoiODdiMjYyZDYtMmZlZi00NWNmLWJjY2EtNzVkODkxMzM2ZDI2IiwidCI6IjlmZjY2Mjg5LTc3MWUtNDljZi04YTU3LTYxZWIwNTA4OWE2NCJ9&pageName=ReportSection" frameborder="0" allowFullScreen="true"></iframe>
              </div>
           </center>
     </body>
